@@ -121,7 +121,6 @@
 
 - (IBAction)restart:(id)sender
 {
-  strcpy(0,"This is a bad bug");
   [self hideOverlay];
   [self updateScore:0];
   [_scene startNewGame];
