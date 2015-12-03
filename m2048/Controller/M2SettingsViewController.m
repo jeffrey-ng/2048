@@ -44,6 +44,7 @@
 
 - (void)commonInit
 {
+
   _options = @[@"Game Type", @"Board Size", @"Theme"];
   
   _optionSelections = @[@[@"Powers of 2", @"Powers of 3", @"Fibonacci"],
