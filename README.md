@@ -1,6 +1,6 @@
 # 2048
 
-chagnge 3
+chagnge 4
 
 This is a derivative and the iOS version of the game 2048. In the very unlikely case that you don't know what it is, you can check it out [here](https://github.com/gabrielecirulli/2048).
 
